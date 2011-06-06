@@ -24,11 +24,7 @@
 
 #include "AbstractMemory.h"
 #include "Type.h"
-#ifdef RUBY_1_9
 #include <ruby/st.h>
-#else
-#include <st.h>
-#endif
 
 #ifdef	__cplusplus
 extern "C" {
