@@ -4,6 +4,8 @@ ruby-ffi
 
 == DESCRIPTION:
 
+[Atastor: My fork tries to make Ruby-FFI compile under MacRuby. No success, so far.]
+
 Ruby-FFI is a ruby extension for programmatically loading dynamic
 libraries, binding functions within them, and calling those functions
 from Ruby code. Moreover, a Ruby-FFI extension works without changes
